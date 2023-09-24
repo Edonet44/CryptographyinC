@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "gtk.h": "c",
+        "stdlib.h": "c",
+        "cstdlib": "c",
+        "rsa.h": "c",
+        "crypto.h": "c",
+        "typeinfo": "c",
+        "json_helper.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
